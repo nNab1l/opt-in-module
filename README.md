@@ -1,0 +1,1 @@
+# mail subscription module using PHP
